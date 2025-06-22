@@ -6,7 +6,7 @@ Using the RedditAPI, this project utilizes both supervised and unsupervised mach
 
 ## Goals:
 1. Discern words and phrases that are unique to the science subreddit and the technology subreddit.
-1. Create a classification model that accurate predicts the subreddit a corpus of text was pulled from.
+1. Create a classification model that accurately predicts the subreddit a corpus of text was pulled from.
 
 ## Data Sources:
 Raw data was scraped using the RedditAPI, which allows users to pull text from posts within a specific subreddit. The data in this project focuses on the "science" subreddit and the "technology" subreddit.
